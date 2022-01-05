@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(#ff0060 0,#ff6975);
+    background-repeat:no-repeat;
+    font-family: 'Spline Sans', sans-serif;
+}
+.top{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+.toph1{
+    margin:90px 0px 0px 0px;
+}
+h6{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+a{
+    margin-left: 40px;
+
+    
+}
+.so{
+    display: flex;
+    margin:0% 36% ;
+}
