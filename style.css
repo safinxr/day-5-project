@@ -3,7 +3,7 @@ body{
     background-repeat:no-repeat;
     font-family: 'Spline Sans', sans-serif;
 }
-.top{
+.top-area{
     color: white;
     text-align: center;
     font-size: 200%;
@@ -13,14 +13,16 @@ body{
 }
 h6{
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom:20px;
+    font-weight: 200;
 }
 a{
-    margin-left: 40px;
-
-    
+    text-decoration: none;    
 }
-.so{
-    display: flex;
-    margin:0% 36% ;
+.social-media img{
+    height:20px;
+    width: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
 }
